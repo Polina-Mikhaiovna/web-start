@@ -1,0 +1,21 @@
+
+html {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+/*  font-weight: <weight>;
+    font-style: normal;*/
+}
+
+ header {
+    background-color: #a7ddff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #57bfff;
+    padding: 20px;
+    text-align: center;
+}
+
+hr { height: 1px; background-color: #333; border: none; }
